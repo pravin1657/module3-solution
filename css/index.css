@@ -5,7 +5,7 @@
 body{
     font-family: 'Courier New', Courier, monospace;
 }
-h1{
+h3{
     text-align: center;
 }
 .box{
@@ -34,6 +34,17 @@ h1{
     
     font-weight: bold;
 }
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    margin: 0px;
+    padding: 0px;
+}
+
 @media (max-width: 767px){
 .box1, .box2, .box3{
         margin: 10px 40px 10px;
